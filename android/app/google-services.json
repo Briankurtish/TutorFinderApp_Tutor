@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "886048603333",
+    "project_id": "finderapp-18504",
+    "storage_bucket": "finderapp-18504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886048603333:android:899c3f025101c4309bc4ac",
+        "android_client_info": {
+          "package_name": "com.example.finder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886048603333-v01iu9j92knjokigij0n8fv118jimptv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_WCzdubctpImumd39oyUI3GVPxGS3eV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886048603333-v01iu9j92knjokigij0n8fv118jimptv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886048603333:android:ccf7c266dc5fe5659bc4ac",
+        "android_client_info": {
+          "package_name": "com.example.tutor_side_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886048603333-v01iu9j92knjokigij0n8fv118jimptv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_WCzdubctpImumd39oyUI3GVPxGS3eV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886048603333-v01iu9j92knjokigij0n8fv118jimptv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
